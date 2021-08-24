@@ -1,5 +1,6 @@
 # AI-Cube
-I will create an AI that will solve any rubik's cube
+I will create an AI that will solve any rubik's cube.
+
 <b>Cube Features</b>
 - You may generate a cube with as many cubie objects as you want. (I would not reccomend surpassing a size of 50 as it will start to lag)
 - You may shuffle the cube for x amount of steps.
